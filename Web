@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>My First Webpage</title>
+</head>
+
+<body>
+   <header id="header">
+       <input type="text">
+       <div class="nav-link">
+       <nav>
+           <ul>
+               <li><a href="">HOME</a></li>
+               <li><a href="">SERVICE</a></li>
+               <li><a href="">PRODUCT</a></li>
+               <li><a href="">NEWS</a></li>
+               <li><a href="">CONTACT</a></li>
+           </ul>
+       </nav>
+       </div>
+   </header>
+
+<!--SECTION 1-->
+
+   <section id="section1">
+       <div class="div-left">
+           <img src="/images/exploring-locations.png" alt="">
+       </div>
+       <div class="div-right">
+           <h1>Our Creatvity <br>is your success</h1>
+           <br>
+           <br>
+           <p>We break our boundaries if they happen in our 
+               <br>way of projects development.
+           </p>
+           <br>
+           <button>Read more</button>
+       </div>
+    </section>
+
+
+<!--SECTION 2-->
+    <section id="section2">
+        <div class="div2-left">
+            <h1>Digital Solutions <br>
+            provider for your brands</h1>
+            <p>We provide the best product for you.</p>
+        </div>
+        <div class="div2-right">
+            <img src="/images/people-sitting (1).png" class="img" alt="">
+        </div>
+    </section>
+
+
+
+
+</body>
+</html>
